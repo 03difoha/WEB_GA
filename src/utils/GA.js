@@ -22,5 +22,3 @@ function generateRandomIndividual() {
   return individual;
 }
 
-
-// console.log(generateInitialPopulation());
